@@ -1,0 +1,3 @@
+case,timestamp,aggregate_current_w,actual_w,random_forest_w,absolute_error_w
+False positive while washer target is off,2015-04-23 11:25:00,2544.375,0.0,2243.455819409046,2243.455819409046
+Underprediction during a high washer reading,2015-04-15 13:26:00,2902.333251953125,2428.333251953125,48.98117280071524,2379.3520791524097

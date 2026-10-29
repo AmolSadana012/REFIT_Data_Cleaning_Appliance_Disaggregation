@@ -1,0 +1,24 @@
+# Original downloaded and extracted REFIT data
+/data/raw/
+/data/cleaned/
+/data/archives/
+/data/archive/
+/data/**/*.zip
+/data/**/*.7z
+/data/**/*.rar
+/data/**/*.tar
+/data/**/*.tar.gz
+
+# Local Python environments and generated temporary files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.tmp
+*.temp
+*.part
+*.download
+*.log
+Thumbs.db
+.DS_Store

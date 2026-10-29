@@ -1,0 +1,9 @@
+{
+  "combined_minutes": 920031,
+  "combined_start": "2013-10-09 14:06:00",
+  "combined_end": "2015-07-10 11:56:00",
+  "part_overlap_minutes": 137011,
+  "output_csv": "outputs\\01_data_cleaning\\house1_cleaned_1min.csv.gz",
+  "plot": "outputs\\01_data_cleaning\\house1_before_after_cleaning.png",
+  "report": "outputs\\01_data_cleaning\\data_quality_report.md"
+}

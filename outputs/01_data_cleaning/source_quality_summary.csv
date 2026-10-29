@@ -1,0 +1,3 @@
+source_file,input_rows,invalid_timestamp_rows,duplicate_timestamps_removed,rows_after_timestamp_deduplication,start,end,interval_min_seconds,interval_median_seconds,interval_p95_seconds,interval_max_seconds,gaps_over_60_seconds,raw_missing_values,values_over_4000_watts
+RAW_House1_Part1.csv,4377877,0,645514,3732363,2013-10-09 14:06:17,2014-10-01 01:27:07,1.0,5.0,15.0,3594413.0,780,0,19647
+RAW_House1_Part2.csv,4140886,0,0,4140886,2014-06-27 21:57:50,2015-07-10 11:56:32,1.0,7.0,8.0,747252.0,3603,5284083,21505
